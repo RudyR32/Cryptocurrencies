@@ -8,9 +8,9 @@ The data Martha will be working with is not ideal, so it will be processed to fi
 ### Objectives
 The goals for this challenge are for you to:
 
--Prepare the data for dimensions reduction with PCA and clustering using K-means.
--Reduce data dimensions using PCA algorithms from sklearn.
--Predict clusters using cryptocurrencies data using the K-means algorithm form sklearn.
--Create some plots and data tables to present your results.
+-Prepare the data for dimensions reduction with PCA and clustering using K-means.<br/>
+-Reduce data dimensions using PCA algorithms from sklearn.<br/>
+-Predict clusters using cryptocurrencies data using the K-means algorithm form sklearn.<br/>
+-Create some plots and data tables to present your results.<br/>
 ### Code 
 Code can be found [here](https://github.com/RudyR32/Cryptocurrencies/blob/master/challenge.ipynb).
