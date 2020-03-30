@@ -14,6 +14,6 @@ The goals for this challenge are for you to:
 -Create some plots and data tables to present your results.<br/>
 
 ### Summary
-After preprocessing the data we were left 532 cryptocurrencies.  From the
+After preprocessing the data we were left 532 cryptocurrencies.  From the from there multiple analysis were preformed which can be view int the attached code.
 ### Code 
 Code can be found [here](https://github.com/RudyR32/Cryptocurrencies/blob/master/challenge.ipynb).
